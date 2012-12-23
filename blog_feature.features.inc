@@ -34,6 +34,14 @@ function blog_feature_node_info() {
       'title_label' => t('Title'),
       'help' => '',
     ),
+    'naujas' => array(
+      'name' => t('naujas'),
+      'base' => 'node_content',
+      'description' => t('test turinio tipas'),
+      'has_title' => '1',
+      'title_label' => t('Title'),
+      'help' => '',
+    ),
   );
   return $items;
 }
