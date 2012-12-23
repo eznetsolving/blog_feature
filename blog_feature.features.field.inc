@@ -123,7 +123,7 @@ function blog_feature_field_default_fields() {
           'module' => 'image',
           'settings' => array(
             'image_link' => '',
-            'image_style' => '',
+            'image_style' => 'thumbnail',
           ),
           'type' => 'image',
           'weight' => '1',
