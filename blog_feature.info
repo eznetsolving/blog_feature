@@ -45,4 +45,5 @@ features[variable][] = node_preview_naujas
 features[variable][] = node_submitted_blog
 features[variable][] = node_submitted_naujas
 features[variable][] = site_frontpage
+features[variable][] = site_slogan
 features[views_view][] = lullablog
